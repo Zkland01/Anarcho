@@ -11149,8 +11149,9 @@
  }
 
  .tg__animate-text span {
-     animation: 0.1s both tg_animated_text;text-shadow: 2px 2px 4px green;
+     animation: 0.05s both tg_animated_text;text-shadow: 2px 2px 4px green;
  }
+
 
  @keyframes tg_animated_text {
      0% {
